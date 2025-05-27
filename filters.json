@@ -397,7 +397,8 @@
     "oneecheetochan/Oak.png",
     "GreatBigFailure/Lopi.png",
     "GreatBigFailure/Laila.png",
-    "wanderingstar/Faith.png"
+    "wanderingstar/Faith.png",
+    "GreatBigFailure/Katy.png"
   ],
   "tags": {
     "kalakan/Absolute Orders.png": [
@@ -9955,23 +9956,45 @@
       "/vg/"
     ],
     "Unknown/Teto.png": [
-      "/vg/"
+      "/g/"
     ],
     "raingazer/Rhubarb.png": [
+      "Love",
+      "Non-Human",
+      "Bunny Girl",
+      "Fluff",
       "Wholesome",
-      "cozy",
-      "OC",
-      "Romance",
-      "cute speech pattern",
       "Fantasy",
       "sweet",
       "anypov",
-      "Bunny Girl",
-      "Fluff",
-      "Non-Human",
-      "Love",
+      "Kuudere",
+      "OC",
+      "cute speech pattern",
       "Female",
       "Cute",
+      "Romance",
+      "cozy",
+      "/vg/"
+    ],
+    "GreatBigFailure/Katy.png": [
+      "Music",
+      "thick thighs",
+      "OC",
+      "Human",
+      "Slice of Life",
+      "Romance",
+      "Female",
+      "Roleplay",
+      "NSFW",
+      "SFW <-> NSFW",
+      "Drama",
+      "Original Character",
+      "Big Butt",
+      "Office lady",
+      "Multiple Greetings",
+      "anypov",
+      "Action",
+      "Motivation",
       "/vg/"
     ]
   }
