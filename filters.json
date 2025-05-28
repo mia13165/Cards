@@ -401,7 +401,8 @@
     "GreatBigFailure/Katy.png",
     "KingCurtis/Liliana Vess.png",
     "proxy_anon/Natasha.png",
-    "shimaenaga/LOVE ♡ LOCK.png"
+    "shimaenaga/LOVE ♡ LOCK.png",
+    "Vebanacci/Sauwen.png"
   ],
   "tags": {
     "kalakan/Absolute Orders.png": [
@@ -9962,8 +9963,8 @@
       "/vg/"
     ],
     "raingazer/Rhubarb.png": [
-      "Non-Human",
       "Love",
+      "Non-Human",
       "Bunny Girl",
       "Fluff",
       "Wholesome",
@@ -10043,6 +10044,17 @@
       "Violent",
       "website",
       "/vg/"
+    ],
+    "Vebanacci/Sauwen.png": [
+      "Roleplay",
+      "Cute",
+      "Catboy",
+      "sailor uniform",
+      "toddler",
+      "NSFW",
+      "SFW <-> NSFW",
+      "Male",
+      "/g/"
     ]
   }
 }
