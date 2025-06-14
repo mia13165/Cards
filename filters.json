@@ -427,7 +427,8 @@
     "Blobfish23/Alyona.png",
     "mrnobody99/Cheri.png",
     "KingCurtis/Aylin.png",
-    "punchchildren/Chen.png"
+    "punchchildren/Chen.png",
+    "handwrought.route/Mexican Human Trafficking Simulator.png"
   ],
   "tags": {
     "kalakan/Absolute Orders.png": [
@@ -10716,6 +10717,26 @@
       "Touhou",
       "NSFW",
       "/g/"
+    ],
+    "handwrought.route/Mexican Human Trafficking Simulator.png": [
+      "NSFW",
+      "Dark",
+      "free-roam",
+      "human trafficking",
+      "Scenario",
+      "political",
+      "/g/"
+    ],
+    "novisini/FNAF Salvage Sim.png": [
+      "Horror",
+      "FNAF",
+      "Games",
+      "RPG",
+      "Five Nights at Freddy's",
+      "five nights at freddys",
+      "SFW",
+      "Adventure",
+      "/vg/"
     ]
   }
 }
